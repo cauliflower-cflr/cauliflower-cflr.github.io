@@ -1,0 +1,15 @@
+# Site settings
+title: Cauliflower
+tagline: Finally, the solution to all my CFL-R problems I always wanted.
+email: cauliflower.cflr@gmail.com
+description: >
+    This is the project page for the Cauliflower tool, a CFL-R solver generator
+baseurl: ""
+url: "http://cauliflower-cflr.github.io"
+fixedNav: 'true' # true or false
+
+# Build settings
+permalink: pretty
+markdown: kramdown
+include: [_pages]
+exclude: [_site, .gitignore]
