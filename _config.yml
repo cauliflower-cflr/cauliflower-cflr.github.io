@@ -8,7 +8,7 @@ baseurl: ""
 url: "http://cauliflower-cflr.github.io"
 fixedNav: 'true' # true or false
 
-logofile: public/cauliflower.png
+logofile: /public/cauliflower.png
 logoalt: The Cauliflower logo.
 
 # Build settings
