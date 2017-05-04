@@ -1,5 +1,5 @@
 ---
-title: Experimental release: Datalog Comparison
+title: Experimental release - Datalog Comparison
 layout: post
 ---
 
